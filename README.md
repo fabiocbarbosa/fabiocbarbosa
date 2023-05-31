@@ -1,10 +1,10 @@
-👋 Hi, I’m @fabiocbarbosa
+👋 Hi
 
-👀 I’m interested in programming, privacy and security
+👀 I’m interested in programming, privacy, security, home automation and whatnot.
 
-🌱 I’m currently learning how to de-google your life (if it's possible and to what extent) 😅
+🌱 I’m currently learning how to de-google your life (~if possible~ it's impossible, but we keep trying) 😅
 
-📫 You can find me here - and that's enough 😄
+📫 You can find me here - and that's enough
 
 <!---
 fabiocbarbosa/fabiocbarbosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
